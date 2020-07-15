@@ -10,3 +10,6 @@
 [submodule "DSA-Worksheet"]
 	path = DSA-Worksheet
 	url = https://github.com/shivam1196/DSA-Worksheet.git
+[submodule "Autocomplete-Text"]
+	path = Autocomplete-Text
+	url = https://github.com/shivam1196/Autocomplete-Text.git
