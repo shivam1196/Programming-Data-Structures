@@ -4,3 +4,6 @@
 [submodule "Programming"]
 	path = Programming
 	url = https://github.com/shivam1196/Programming.git
+[submodule "Programming-Concepts"]
+	path = Programming-Concepts
+	url = https://github.com/shivam1196/Programming-Concepts.git
