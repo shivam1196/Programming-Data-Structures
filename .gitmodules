@@ -1,3 +1,6 @@
 [submodule "Google-Hash-Code-2020"]
 	path = Google-Hash-Code-2020
 	url = https://github.com/shivam1196/Hash-Code-2020.git
+[submodule "Programming"]
+	path = Programming
+	url = https://github.com/shivam1196/Programming.git
