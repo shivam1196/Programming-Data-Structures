@@ -16,3 +16,6 @@
 [submodule "Dutch-National-Flag-Problem"]
 	path = Dutch-National-Flag-Problem
 	url = https://github.com/shivam1196/Dutch-National-Flag-Problem.git
+[submodule "Rearrange-Array-Elements"]
+	path = Rearrange-Array-Elements
+	url = https://github.com/shivam1196/Rearrange-Array-Elements.git
