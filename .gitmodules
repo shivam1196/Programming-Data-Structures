@@ -13,3 +13,6 @@
 [submodule "Autocomplete-Text"]
 	path = Autocomplete-Text
 	url = https://github.com/shivam1196/Autocomplete-Text.git
+[submodule "Dutch-National-Flag-Problem"]
+	path = Dutch-National-Flag-Problem
+	url = https://github.com/shivam1196/Dutch-National-Flag-Problem.git
