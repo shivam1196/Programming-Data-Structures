@@ -22,3 +22,6 @@
 [submodule "Search-In-Rotated-Array"]
 	path = Search-In-Rotated-Array
 	url = https://github.com/shivam1196/Search-In-Rotated-Array.git
+[submodule "Square-Root"]
+	path = Square-Root
+	url = https://github.com/shivam1196/Square-Root.git
